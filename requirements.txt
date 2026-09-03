@@ -1,0 +1,6 @@
+aiogram>=3,<4
+aiohttp
+docker
+python-dotenv
+psutil
+GitPython
